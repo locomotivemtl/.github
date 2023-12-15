@@ -1,7 +1,10 @@
 <br/>
 <p align="center">
     <a href="https://locomotive.ca" target="_blank">
-        <img alt="Locomotive, Digital-first Design Agency" width="824" src="https://raw.githubusercontent.com/locomotivemtl/.github/main/branding/banner.svg">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/locomotivemtl/.github/main/branding/banner-dark.svg">
+            <img alt="Locomotive, Digital-first Design Agency" width="824" src="https://raw.githubusercontent.com/locomotivemtl/.github/main/branding/banner-light.svg">
+        </picture>
     </a>
 </p>
 <br/>
